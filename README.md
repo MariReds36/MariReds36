@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MariReds36
+- 👀 I’m interested in learning as much as possible
+- 🌱 I’m currently learning Web development 
+- 💞️ I’m looking to collaborate on anything I am able to
